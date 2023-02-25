@@ -40,6 +40,7 @@ public class Ex3 {
 		operandstack.add(result);
 		System.out.println(operandstack.toString());
     }
-    
+    sc.close();
 	}
+
 }
